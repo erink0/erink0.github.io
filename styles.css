@@ -1,6 +1,7 @@
 body {
     background-color: lightpink;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
 }
 h1 {
     color:indigo;
