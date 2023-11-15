@@ -12,7 +12,7 @@ h1 {
     padding: 10px;
     background: antiquewhite;
     width: 20%;
-    box-shadow: 8px 8px [pick a color];
+    box-shadow: 8px 8px white;
     border-radius: 10px;
     display: block;
 }
