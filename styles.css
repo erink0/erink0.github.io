@@ -33,3 +33,47 @@ a {
  padding: 10px; /* change this from margin to padding */
  border: 2px solid midnightblue; /* try dashed, dotted */
 }
+
+
+body {
+ background-color: lightpink;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ display: flex;
+ flex-wrap: wrap;
+}
+h1 {
+ color: indigo;
+ text-align: center;
+ width: 100%;
+ display: block;
+}
+h1:hover {
+ color: hotpink;
+ text-align: center;
+ width: 100%;
+ display: block;
+}
+a {
+ text-decoration: none;
+ color: black;
+}
+.assign {
+ background-color: white;
+ margin: 10px;
+ padding: 10px;
+ border-radius: 20px;
+ width: 20%;
+ box-shadow: 8px 8px brown;
+ display: block; /* instead of flex */
+}
+.assign img {
+ width: 200px;
+ margin: 10px;
+ border: 2px darkpink;
+}
+.assign img:hover {
+ width: 200px;
+ margin: 10px;
+ border: 2px dotted lightblue;
+}
+
