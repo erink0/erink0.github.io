@@ -2,11 +2,13 @@ body {
     background-color: lightpink;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     display: flex;
+    flex-wrap: wrap;
 }
 h1 {
     color:indigo;
     text-align: center;
     width: 100%;
+    display: block;
 }
 .assign {
     /*display: flex;*/
@@ -15,7 +17,7 @@ h1 {
     background: antiquewhite;
     width: 20%;
     box-shadow: 8px 8px white;
-    border-radius: 10px;
+    border-radius: 20px;
     display: block;
 }
 .assign img {
