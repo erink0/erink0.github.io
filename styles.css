@@ -1,38 +1,3 @@
-body {
-    background-color: lightpink;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    display: flex;
-    flex-wrap: wrap;
-}
-h1 {
-    color:indigo;
-    text-align: center;
-    width: 100%;
-    display: block;
-}
-.assign {
-    /*display: flex;*/
-    margin: 10px;
-    padding: 10px;
-    background: antiquewhite;
-    width: 20%;
-    box-shadow: 8px 8px white;
-    border-radius: 20px;
-    display: block;
-}
-.assign img {
-    width: 450px;
-    padding: 10px;
-    }
-
-a {
- text-decoration: none; /* remove underlining on anchor tags */
- color: midnightblue; /* pick the color you want */
-}
-.assign img {
- padding: 10px; /* change this from margin to padding */
- border: 2px solid midnightblue; /* try dashed, dotted */
-}
 
 
 body {
